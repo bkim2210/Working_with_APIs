@@ -1,0 +1,4 @@
+# Working_with_APIs
+On this project I learned how to write self-contained programs that make a visualizations based on the data it retrieves. The Python program used application programming interface (API) to request specific information from a website. On this project I used API to request data on GitHub( a site that allows programmers to work on projects together), to retrieve GitHub’s most starred python projects. Using Ploty I was able to have the program visualize a bar graph which shows all of GitHub’s most starred projects. Also, when you hover over and click on the x-values, it will take you to the projects’ GitHub page to learn more about it. The program showed me how to use the Requests package to automatically issue an API call GitHub and other Ploty settings which showed me further customization for the appearance of charts.
+
+The bar graph for this program can be found in Python_Projects_Graph
